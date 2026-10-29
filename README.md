@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./neofetch.svg" alt="david@gentoo: Gentoo Linux, Ingeniería de Sistemas en la Universidad Continental, Arequipa, Perú" width="100%">
+  <img src="./neofetch.svg" alt="david@gentoo: Gentoo Linux, Ingeniería de Sistemas e Informática en la Universidad Continental, Arequipa, Perú" width="100%">
 </p>
 
 <p align="center">
