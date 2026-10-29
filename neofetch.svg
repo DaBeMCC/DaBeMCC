@@ -47,27 +47,28 @@
 <text class="f" style="animation-delay:1.75s" x="350" y="176" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Carrera</tspan><tspan fill="#e6edf3">: Ingeniería de Sistemas, 6.º ciclo</tspan></text>
 <text class="f" style="animation-delay:1.84s" x="350" y="194" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Universidad</tspan><tspan fill="#e6edf3">: Universidad Continental</tspan></text>
 <text class="f" style="animation-delay:1.93s" x="350" y="212" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Ubicación</tspan><tspan fill="#e6edf3">: Arequipa, Perú</tspan></text>
-<text class="f" style="animation-delay:2.02s" x="350" y="230" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Lenguajes</tspan><tspan fill="#e6edf3">: PHP, JavaScript, Python, C#, SQL</tspan></text>
-<text class="f" style="animation-delay:2.11s" x="350" y="248" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Web</tspan><tspan fill="#e6edf3">: Laravel, React, Inertia, Flask, Node.js</tspan></text>
-<text class="f" style="animation-delay:2.20s" x="350" y="266" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Videojuegos</tspan><tspan fill="#e6edf3">: Unity 6</tspan></text>
+<text class="f" style="animation-delay:2.02s" x="350" y="230" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Lenguajes</tspan><tspan fill="#e6edf3">: Python, JavaScript, C#, C++, SQL</tspan></text>
+<text class="f" style="animation-delay:2.11s" x="350" y="248" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Web</tspan><tspan fill="#e6edf3">: React, Inertia, Node.js, Flask</tspan></text>
+<text class="f" style="animation-delay:2.20s" x="350" y="266" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Videojuegos</tspan><tspan fill="#e6edf3">: Unity 6 (2D y 3D)</tspan></text>
 <text class="f" style="animation-delay:2.29s" x="350" y="284" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">IA</tspan><tspan fill="#e6edf3">: Ollama (Qwen), PyTorch, Gemini, n8n</tspan></text>
 <text class="f" style="animation-delay:2.38s" x="350" y="302" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Sistemas</tspan><tspan fill="#e6edf3">: Docker, cgroups v2, QEMU/KVM</tspan></text>
-<text class="f" style="animation-delay:2.47s" x="350" y="320" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Contacto</tspan><tspan fill="#e6edf3">: davidmachacamcc@gmail.com</tspan></text>
-<rect class="f" style="animation-delay:2.66s" x="350" y="344" width="28" height="16" fill="#484f58"/>
-<rect class="f" style="animation-delay:2.69s" x="378" y="344" width="28" height="16" fill="#ff7b72"/>
-<rect class="f" style="animation-delay:2.72s" x="406" y="344" width="28" height="16" fill="#3fb950"/>
-<rect class="f" style="animation-delay:2.75s" x="434" y="344" width="28" height="16" fill="#d29922"/>
-<rect class="f" style="animation-delay:2.78s" x="462" y="344" width="28" height="16" fill="#58a6ff"/>
-<rect class="f" style="animation-delay:2.81s" x="490" y="344" width="28" height="16" fill="#bc8cff"/>
-<rect class="f" style="animation-delay:2.84s" x="518" y="344" width="28" height="16" fill="#39c5cf"/>
-<rect class="f" style="animation-delay:2.87s" x="546" y="344" width="28" height="16" fill="#b1bac4"/>
-<rect class="f" style="animation-delay:2.66s" x="350" y="360" width="28" height="16" fill="#6e7681"/>
-<rect class="f" style="animation-delay:2.69s" x="378" y="360" width="28" height="16" fill="#ffa198"/>
-<rect class="f" style="animation-delay:2.72s" x="406" y="360" width="28" height="16" fill="#56d364"/>
-<rect class="f" style="animation-delay:2.75s" x="434" y="360" width="28" height="16" fill="#e3b341"/>
-<rect class="f" style="animation-delay:2.78s" x="462" y="360" width="28" height="16" fill="#79c0ff"/>
-<rect class="f" style="animation-delay:2.81s" x="490" y="360" width="28" height="16" fill="#d2a8ff"/>
-<rect class="f" style="animation-delay:2.84s" x="518" y="360" width="28" height="16" fill="#56d4dd"/>
-<rect class="f" style="animation-delay:2.87s" x="546" y="360" width="28" height="16" fill="#ffffff"/>
-<g class="f" style="animation-delay:3.06s"><text x="28" y="450" xml:space="preserve"><tspan fill="#3fb950" font-weight="bold">david@gentoo</tspan><tspan fill="#58a6ff" font-weight="bold"> ~ $ </tspan></text><rect class="cur" x="165.7" y="438.5" width="8.1" height="15.5" fill="#e6edf3"/></g>
+<text class="f" style="animation-delay:2.47s" x="350" y="320" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Bases de datos</tspan><tspan fill="#e6edf3">: MySQL, MongoDB</tspan></text>
+<text class="f" style="animation-delay:2.56s" x="350" y="338" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Contacto</tspan><tspan fill="#e6edf3">: davidmachacamcc@gmail.com</tspan></text>
+<rect class="f" style="animation-delay:2.75s" x="350" y="362" width="28" height="16" fill="#484f58"/>
+<rect class="f" style="animation-delay:2.78s" x="378" y="362" width="28" height="16" fill="#ff7b72"/>
+<rect class="f" style="animation-delay:2.81s" x="406" y="362" width="28" height="16" fill="#3fb950"/>
+<rect class="f" style="animation-delay:2.84s" x="434" y="362" width="28" height="16" fill="#d29922"/>
+<rect class="f" style="animation-delay:2.87s" x="462" y="362" width="28" height="16" fill="#58a6ff"/>
+<rect class="f" style="animation-delay:2.90s" x="490" y="362" width="28" height="16" fill="#bc8cff"/>
+<rect class="f" style="animation-delay:2.93s" x="518" y="362" width="28" height="16" fill="#39c5cf"/>
+<rect class="f" style="animation-delay:2.96s" x="546" y="362" width="28" height="16" fill="#b1bac4"/>
+<rect class="f" style="animation-delay:2.75s" x="350" y="378" width="28" height="16" fill="#6e7681"/>
+<rect class="f" style="animation-delay:2.78s" x="378" y="378" width="28" height="16" fill="#ffa198"/>
+<rect class="f" style="animation-delay:2.81s" x="406" y="378" width="28" height="16" fill="#56d364"/>
+<rect class="f" style="animation-delay:2.84s" x="434" y="378" width="28" height="16" fill="#e3b341"/>
+<rect class="f" style="animation-delay:2.87s" x="462" y="378" width="28" height="16" fill="#79c0ff"/>
+<rect class="f" style="animation-delay:2.90s" x="490" y="378" width="28" height="16" fill="#d2a8ff"/>
+<rect class="f" style="animation-delay:2.93s" x="518" y="378" width="28" height="16" fill="#56d4dd"/>
+<rect class="f" style="animation-delay:2.96s" x="546" y="378" width="28" height="16" fill="#ffffff"/>
+<g class="f" style="animation-delay:3.15s"><text x="28" y="450" xml:space="preserve"><tspan fill="#3fb950" font-weight="bold">david@gentoo</tspan><tspan fill="#58a6ff" font-weight="bold"> ~ $ </tspan></text><rect class="cur" x="165.7" y="438.5" width="8.1" height="15.5" fill="#e6edf3"/></g>
 </svg>

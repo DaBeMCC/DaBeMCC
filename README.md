@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,py,cs,mysql,laravel,react,flask,nodejs&theme=dark" alt="PHP, JavaScript, Python, C#, MySQL, Laravel, React, Flask, Node.js"><br>
+  <img src="https://skillicons.dev/icons?i=py,js,cs,cpp,mysql,mongodb,react,flask,nodejs&theme=dark" alt="Python, JavaScript, C#, C++, MySQL, MongoDB, React, Flask, Node.js"><br>
   <img src="https://skillicons.dev/icons?i=unity,pytorch,linux,docker,git,github,bash&theme=dark" alt="Unity, PyTorch, Linux, Docker, Git, GitHub, Bash">
 </p>
 
