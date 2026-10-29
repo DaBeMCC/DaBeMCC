@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="474" viewBox="0 0 900 474" role="img" aria-label="david@gentoo: neofetch">
+<style>
+  text { font-family: 'JetBrains Mono','Fira Code','DejaVu Sans Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 13.5px; }
+  .f { opacity: 0; animation: in .35s ease-out forwards; }
+  @keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+  .cur { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
+<rect width="900" height="474" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0 10a10 10 0 0 1 10-10h880a10 10 0 0 1 10 10v24H0z" fill="#161b22"/>
+<line x1="0" y1="34" x2="900" y2="34" stroke="#30363d"/>
+<circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="17" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="17" r="6" fill="#27c93f"/>
+<text x="450.0" y="22" text-anchor="middle" fill="#8b949e">david@gentoo: ~</text>
+<text x="28" y="68" xml:space="preserve"><tspan fill="#3fb950" font-weight="bold">david@gentoo</tspan><tspan fill="#58a6ff" font-weight="bold"> ~ $ </tspan></text>
+<text x="165.7" y="68" fill="#e6edf3" opacity="0">n<set attributeName="opacity" to="1" begin="0.25s" fill="freeze"/></text>
+<text x="173.8" y="68" fill="#e6edf3" opacity="0">e<set attributeName="opacity" to="1" begin="0.34s" fill="freeze"/></text>
+<text x="181.9" y="68" fill="#e6edf3" opacity="0">o<set attributeName="opacity" to="1" begin="0.43s" fill="freeze"/></text>
+<text x="190.0" y="68" fill="#e6edf3" opacity="0">f<set attributeName="opacity" to="1" begin="0.52s" fill="freeze"/></text>
+<text x="198.1" y="68" fill="#e6edf3" opacity="0">e<set attributeName="opacity" to="1" begin="0.61s" fill="freeze"/></text>
+<text x="206.2" y="68" fill="#e6edf3" opacity="0">t<set attributeName="opacity" to="1" begin="0.70s" fill="freeze"/></text>
+<text x="214.3" y="68" fill="#e6edf3" opacity="0">c<set attributeName="opacity" to="1" begin="0.79s" fill="freeze"/></text>
+<text x="222.4" y="68" fill="#e6edf3" opacity="0">h<set attributeName="opacity" to="1" begin="0.88s" fill="freeze"/></text>
+<text class="f" style="animation-delay:1.32s" x="28" y="104" fill="#b4a7d6" xml:space="preserve">         -/oyddmdhs+:.</text>
+<text class="f" style="animation-delay:1.36s" x="28" y="122" fill="#b4a7d6" xml:space="preserve">     -odNMMMMMMMMNNmhy+-`</text>
+<text class="f" style="animation-delay:1.40s" x="28" y="140" fill="#b4a7d6" xml:space="preserve">   -yNMMMMMMMMMMMNNNmmdhy+-</text>
+<text class="f" style="animation-delay:1.44s" x="28" y="158" fill="#b4a7d6" xml:space="preserve"> `omMMMMMMMMMMMMNmdmmmmddhhy/`</text>
+<text class="f" style="animation-delay:1.48s" x="28" y="176" fill="#b4a7d6" xml:space="preserve"> omMMMMMMMMMMMNhhyyyohmdddhhhdo`</text>
+<text class="f" style="animation-delay:1.52s" x="28" y="194" fill="#b4a7d6" xml:space="preserve">.ydMMMMMMMMMMdhs++so/smdddhhhhdm+`</text>
+<text class="f" style="animation-delay:1.56s" x="28" y="212" fill="#b4a7d6" xml:space="preserve"> oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.</text>
+<text class="f" style="animation-delay:1.60s" x="28" y="230" fill="#b4a7d6" xml:space="preserve">  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh</text>
+<text class="f" style="animation-delay:1.64s" x="28" y="248" fill="#b4a7d6" xml:space="preserve">    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy</text>
+<text class="f" style="animation-delay:1.68s" x="28" y="266" fill="#7c6bb0" xml:space="preserve">       /mMMMMMMNNNmmmdddhhhhhmMNhs:</text>
+<text class="f" style="animation-delay:1.72s" x="28" y="284" fill="#7c6bb0" xml:space="preserve">    `oNMMMMMMMNNNmmmddddhhdmMNhs+`</text>
+<text class="f" style="animation-delay:1.76s" x="28" y="302" fill="#7c6bb0" xml:space="preserve">  `sNMMMMMMMMNNNmmmdddddmNMmhs/.</text>
+<text class="f" style="animation-delay:1.80s" x="28" y="320" fill="#7c6bb0" xml:space="preserve"> /NMMMMMMMMNNNNmmmdddmNMNdso:`</text>
+<text class="f" style="animation-delay:1.84s" x="28" y="338" fill="#7c6bb0" xml:space="preserve">+MMMMMMMNNNNNmmmmdmNMNdso/-</text>
+<text class="f" style="animation-delay:1.88s" x="28" y="356" fill="#7c6bb0" xml:space="preserve">yMMNNNNNNNmmmmmNNMmhs+/-`</text>
+<text class="f" style="animation-delay:1.92s" x="28" y="374" fill="#7c6bb0" xml:space="preserve">/hMMNNNNNNNNMNdhs++/-`</text>
+<text class="f" style="animation-delay:1.96s" x="28" y="392" fill="#7c6bb0" xml:space="preserve">`/ohdmmddhys+++/:.`</text>
+<text class="f" style="animation-delay:2.00s" x="28" y="410" fill="#7c6bb0" xml:space="preserve">  `-//////:--.</text>
+<text class="f" style="animation-delay:1.47s" x="350" y="104" font-weight="bold"><tspan fill="#3fb950">david</tspan><tspan fill="#e6edf3">@</tspan><tspan fill="#3fb950">gentoo</tspan></text>
+<text class="f" style="animation-delay:1.52s" x="350" y="122" fill="#8b949e">------------</text>
+<text class="f" style="animation-delay:1.57s" x="350" y="140" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Sistema</tspan><tspan fill="#e6edf3">: Gentoo Linux x86_64</tspan></text>
+<text class="f" style="animation-delay:1.66s" x="350" y="158" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Init</tspan><tspan fill="#e6edf3">: OpenRC</tspan></text>
+<text class="f" style="animation-delay:1.75s" x="350" y="176" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">CPU</tspan><tspan fill="#e6edf3">: Intel Core i7-14700KF</tspan></text>
+<text class="f" style="animation-delay:1.84s" x="350" y="194" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Carrera</tspan><tspan fill="#e6edf3">: Ingeniería de Sistemas, 6.º ciclo</tspan></text>
+<text class="f" style="animation-delay:1.93s" x="350" y="212" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Universidad</tspan><tspan fill="#e6edf3">: Universidad Continental</tspan></text>
+<text class="f" style="animation-delay:2.02s" x="350" y="230" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Ubicación</tspan><tspan fill="#e6edf3">: Arequipa, Perú</tspan></text>
+<text class="f" style="animation-delay:2.11s" x="350" y="248" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Lenguajes</tspan><tspan fill="#e6edf3">: PHP, JavaScript, Python, C#, SQL</tspan></text>
+<text class="f" style="animation-delay:2.20s" x="350" y="266" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Web</tspan><tspan fill="#e6edf3">: Laravel, React, Inertia, Flask, Node.js</tspan></text>
+<text class="f" style="animation-delay:2.29s" x="350" y="284" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Videojuegos</tspan><tspan fill="#e6edf3">: Unity 6</tspan></text>
+<text class="f" style="animation-delay:2.38s" x="350" y="302" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">IA</tspan><tspan fill="#e6edf3">: Ollama (Qwen), PyTorch, Gemini, n8n</tspan></text>
+<text class="f" style="animation-delay:2.47s" x="350" y="320" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Sistemas</tspan><tspan fill="#e6edf3">: Docker, cgroups v2, QEMU/KVM</tspan></text>
+<text class="f" style="animation-delay:2.56s" x="350" y="338" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Contacto</tspan><tspan fill="#e6edf3">: davidmachacamcc@gmail.com</tspan></text>
+<rect class="f" style="animation-delay:2.75s" x="350" y="362" width="28" height="16" fill="#484f58"/>
+<rect class="f" style="animation-delay:2.78s" x="378" y="362" width="28" height="16" fill="#ff7b72"/>
+<rect class="f" style="animation-delay:2.81s" x="406" y="362" width="28" height="16" fill="#3fb950"/>
+<rect class="f" style="animation-delay:2.84s" x="434" y="362" width="28" height="16" fill="#d29922"/>
+<rect class="f" style="animation-delay:2.87s" x="462" y="362" width="28" height="16" fill="#58a6ff"/>
+<rect class="f" style="animation-delay:2.90s" x="490" y="362" width="28" height="16" fill="#bc8cff"/>
+<rect class="f" style="animation-delay:2.93s" x="518" y="362" width="28" height="16" fill="#39c5cf"/>
+<rect class="f" style="animation-delay:2.96s" x="546" y="362" width="28" height="16" fill="#b1bac4"/>
+<rect class="f" style="animation-delay:2.75s" x="350" y="378" width="28" height="16" fill="#6e7681"/>
+<rect class="f" style="animation-delay:2.78s" x="378" y="378" width="28" height="16" fill="#ffa198"/>
+<rect class="f" style="animation-delay:2.81s" x="406" y="378" width="28" height="16" fill="#56d364"/>
+<rect class="f" style="animation-delay:2.84s" x="434" y="378" width="28" height="16" fill="#e3b341"/>
+<rect class="f" style="animation-delay:2.87s" x="462" y="378" width="28" height="16" fill="#79c0ff"/>
+<rect class="f" style="animation-delay:2.90s" x="490" y="378" width="28" height="16" fill="#d2a8ff"/>
+<rect class="f" style="animation-delay:2.93s" x="518" y="378" width="28" height="16" fill="#56d4dd"/>
+<rect class="f" style="animation-delay:2.96s" x="546" y="378" width="28" height="16" fill="#ffffff"/>
+<g class="f" style="animation-delay:3.15s"><text x="28" y="450" xml:space="preserve"><tspan fill="#3fb950" font-weight="bold">david@gentoo</tspan><tspan fill="#58a6ff" font-weight="bold"> ~ $ </tspan></text><rect class="cur" x="165.7" y="438.5" width="8.1" height="15.5" fill="#e6edf3"/></g>
+</svg>
