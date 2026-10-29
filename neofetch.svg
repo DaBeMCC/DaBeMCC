@@ -50,7 +50,7 @@
 <text class="f" style="animation-delay:2.02s" x="350" y="230" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Lenguajes</tspan><tspan fill="#e6edf3">: Python, JavaScript, C#, C++, SQL</tspan></text>
 <text class="f" style="animation-delay:2.11s" x="350" y="248" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Web</tspan><tspan fill="#e6edf3">: React, Inertia, Node.js, Flask</tspan></text>
 <text class="f" style="animation-delay:2.20s" x="350" y="266" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Videojuegos</tspan><tspan fill="#e6edf3">: Unity 6 (2D y 3D)</tspan></text>
-<text class="f" style="animation-delay:2.29s" x="350" y="284" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">IA</tspan><tspan fill="#e6edf3">: Ollama (Qwen), PyTorch, Gemini, n8n</tspan></text>
+<text class="f" style="animation-delay:2.29s" x="350" y="284" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">IA</tspan><tspan fill="#e6edf3">: Claude, Ollama (Qwen), PyTorch, Gemini, n8n</tspan></text>
 <text class="f" style="animation-delay:2.38s" x="350" y="302" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Sistemas</tspan><tspan fill="#e6edf3">: Docker, cgroups v2, QEMU/KVM</tspan></text>
 <text class="f" style="animation-delay:2.47s" x="350" y="320" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Bases de datos</tspan><tspan fill="#e6edf3">: MySQL, MongoDB</tspan></text>
 <text class="f" style="animation-delay:2.56s" x="350" y="338" xml:space="preserve"><tspan fill="#b4a7d6" font-weight="bold">Contacto</tspan><tspan fill="#e6edf3">: davidmachacamcc@gmail.com</tspan></text>

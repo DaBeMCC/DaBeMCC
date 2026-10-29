@@ -13,6 +13,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Gentoo-54487A?style=flat-square&logo=gentoo&logoColor=white" alt="Gentoo">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude">
   <img src="https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
   <img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white" alt="QEMU">
